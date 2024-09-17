@@ -1,4 +1,4 @@
-<img align="center" alt="Davi-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img align="right" alt="Davi-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
 ## __Tabuada usando apenas o laço de repetição While__ ##
 
